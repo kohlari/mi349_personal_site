@@ -1,11 +1,22 @@
 body {
+    padding: 5px;
     font-family: Arial;
     background-color: #18453b;
     color: #ffffff;
 }
 
+a {
+    color: #ffff00;
+}
+
 #git_meme {
     width: 400px;
+}
+
+h1 {
+    font-size: 1.9em;
+    text-align: center;
+    border-bottom: 1px solid #ffffff;
 }
 
 .header {
