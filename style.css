@@ -3,6 +3,7 @@ body {
     font-family: Arial;
     background-color: #18453b;
     color: #ffffff;
+    text-align: center;
 }
 
 a {
@@ -15,10 +16,20 @@ a {
 
 h1 {
     font-size: 1.9em;
-    text-align: center;
-    border-bottom: 1px solid #ffffff;
+    
 }
 
 .header {
     font-family: fantasy;
+    text-align: center;
+}
+
+.underline {
+    margin: 0 auto;
+    width: 400px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.languages {
+    list-style-type: none;
 }
